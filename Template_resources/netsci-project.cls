@@ -433,7 +433,7 @@
   \clearemptydoublepage
     \checkoddpage\ifcpoddpage\setlength{\aboveskipchk}{-3pc}\else\setlength{\aboveskipchk}{-5pc}\fi%for checking oddpage or evenpage top skip%%
        \begin{minipage}{0.3\textwidth} \begin{flushleft}
-    \includegraphics[width=7cm]{Resources/uzh_logo_d_pos.pdf}%
+    \includegraphics[width=7cm]{Template_resources/uzh_logo_d_pos.pdf}%
     \end{flushleft}\end{minipage}
 %   {%
   \begin{minipage}{0.7\textwidth}
